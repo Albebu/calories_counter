@@ -1,0 +1,10 @@
+﻿  Calories_Counter.cpp
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(34,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(54,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(57,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(74,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(78,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(82,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(86,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\monlau\m5\static_library\Users\Calories_Counter\Calories_Counter.cpp(90,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Calories_Counter.vcxproj -> D:\monlau\m5\static_library\Users\x64\Debug\Calories_Counter.exe

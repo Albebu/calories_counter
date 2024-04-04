@@ -1,0 +1,6 @@
+Name: ALexia
+Age: 21
+Weight: 60
+Height: 169
+Calories burned: 240
+Recomended calories: 1975.19
